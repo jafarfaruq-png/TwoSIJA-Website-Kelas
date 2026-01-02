@@ -49,7 +49,7 @@ export default function TestimoniPage() {
   return (
     <section className="min-h-screen bg-gray-100 px-6 py-16">
       <h1 className="text-center text-4xl font-extrabold mb-12">
-        💬 Testimoni Pengunjung
+        Testimoni Pengunjung
       </h1>
 
       <div className="mx-auto grid max-w-6xl grid-cols-1 md:grid-cols-2 gap-8">
