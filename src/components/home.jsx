@@ -76,7 +76,7 @@ export default function HomeHero() {
             >
                 
                 {/* TikTok */}
-              <a href="#" className="hover:scale-110 transition">
+              <a href="https://www.instagram.com/twosijaa_" className="hover:scale-110 transition">
                 <svg
                   width="32px"
                   height="32px"
@@ -182,7 +182,7 @@ export default function HomeHero() {
                 </svg>
               </a>
               {/* Instagram */}
-              <a href="#" className="hover:scale-110 transition">
+              <a href="https://www.tiktok.com/@sija_skaneka" className="hover:scale-110 transition">
                 <svg
                   width="32px"
                   height="32px"
@@ -224,7 +224,7 @@ export default function HomeHero() {
               
 
               {/* Discord */}
-              <a href="#" className="hover:scale-110 transition">
+              <a href="https://discord.gg/wKXW7FdnKR" className="hover:scale-110 transition">
                 <svg
                   width="36px"
                   height="36px"
