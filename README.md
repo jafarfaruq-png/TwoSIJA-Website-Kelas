@@ -3,6 +3,8 @@
 Selamat datang di repositori **TwoSIJA Website Kelas**! 🎉  
 Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajaran**, dibangun menggunakan **Next.js**, **shadcn/ui** dan **supabase**.
 
+[🌐 Lihat Live Demo](https://twosija.vercel.app)
+
 ---
 
 ## ⚡ Fitur Utama
