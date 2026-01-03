@@ -86,18 +86,25 @@ export default function TestimoniPage() {
 
           <div
             ref={chatRef}
-            className="h-[420px] overflow-y-auto space-y-4 pr-2"
+            className="h-[420px] overflow-y-auto flex flex-col gap-4"
           >
             {data.map((t) => (
-              <div
-                key={t.id}
-                className="max-w-[85%] rounded-xl bg-gray-100 p-4"
-              >
-                <p className="text-sm font-semibold">{t.nama}</p>
-                <p className="text-gray-700">{t.pesan}</p>
-                <span className="text-xs text-gray-400">
-                  {new Date(t.created_at).toLocaleString()}
-                </span>
+              <div key={t.id} className="flex items-start gap-3">
+                {/* Foto profil */}
+                <img
+                  src="https://image.idntimes.com/post/20240207/33bac083ba44f180c1435fc41975bf36-ca73ec342155d955387493c4eb78c8bb.jpg"
+                  alt="Profil"
+                  className="h-10 w-10 rounded-full object-cover"
+                />
+
+                {/* Balon chat */}
+                <div className="bg-green-100 rounded-xl px-4 py-2 max-w-[75%]">
+                  <p className="font-semibold text-sm">{t.nama}</p>
+                  <p className="text-gray-700">{t.pesan}</p>
+                  <span className="text-xs text-gray-400">
+                    {new Date(t.created_at).toLocaleString()}
+                  </span>
+                </div>
               </div>
             ))}
           </div>
