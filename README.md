@@ -1,7 +1,7 @@
 # Website Kelas
 
 Selamat datang di repositori **TwoSIJA Website Kelas**! 🎉  
-Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajaran**, dibangun menggunakan **Next.js** dan **shadcn/ui**.
+Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajaran**, dibangun menggunakan **Next.js**, **shadcn/ui** dan **supabase**.
 
 ---
 
@@ -18,6 +18,7 @@ Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajar
 - [shadcn/ui](https://ui.shadcn.com/) – Komponen UI siap pakai
 - Tailwind CSS – Styling yang fleksibel dan responsif
 - JavaScript & React – Dasar pengembangan interaktif
+- Supabase - Database
 
 ---
 
