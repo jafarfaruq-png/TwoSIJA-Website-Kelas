@@ -28,7 +28,7 @@ Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajar
 
 1. **Clone repositori ini**
    ```bash
-   git clone [https://github.com/jafarfaruq-png/TwoSIJA-Website-Kelas.git](https://github.com/jafarfaruq-png/TwoSIJA-Website-Kelas.git)
+   git clone https://github.com/jafarfaruq-png/TwoSIJA-Website-Kelas
    ```
 
 Masuk ke direktori project
