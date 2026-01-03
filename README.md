@@ -1,37 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Website Kelas
 
-## Getting Started
+Selamat datang di repositori **TwoSIJA Website Kelas**! 🎉  
+Ini adalah website kelas yang dibuat untuk tujuan **senang-senang dan pembelajaran**, dibangun menggunakan **Next.js** dan **shadcn/ui**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ⚡ Fitur Utama
+- Halaman utama dan dashboard kelas
+- Tampilan modern dan responsif
+- Komponen UI siap pakai dari **shadcn/ui**
+- Mudah dikembangkan dan dikustomisasi
+
+---
+
+## 💻 Teknologi
+- [Next.js](https://nextjs.org/) – Framework React untuk website modern
+- [shadcn/ui](https://ui.shadcn.com/) – Komponen UI siap pakai
+- Tailwind CSS – Styling yang fleksibel dan responsif
+- JavaScript & React – Dasar pengembangan interaktif
+
+---
+
+## 🚀 Cara Menjalankan
+
+1. **Clone repositori ini**
+   ```bash
+   git clone [https://github.com/jafarfaruq-png/TwoSIJA-Website-Kelas.git](https://github.com/jafarfaruq-png/TwoSIJA-Website-Kelas.git)
+   ```
+
+Masuk ke direktori project
+```Bash
+cd TwoSIJA-Website-Kelas
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Install dependencies
+```Bash
+npm install
+```
+Jalankan development server
+```Bash
+npm run dev
+```
+Buka di browser
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
+📜 Lisensi & Penggunaan
+Website ini boleh digunakan oleh siapa saja, asal tidak diperjualbelikan.
 
-## Learn More
+PENTING: Credit asli tidak boleh dihapus.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Credit: @jafarfaruq
+Tujuan penggunaan: Hanya untuk senang-senang, pembelajaran, dan percobaan pribadi.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✨ Kontribusi
+Tidak diperkenankan menjual atau mendistribusikan ulang tanpa izin.
 
-## Deploy on Vercel
+Jika ingin menambahkan fitur atau perbaikan, pastikan tetap mencantumkan credit asli. Ide, saran, dan pull request untuk pengembangan lebih lanjut sangat diterima.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📌 Catatan
+Website ini dibuat sebagai projek pribadi/kelas. Semua konten, komponen, dan desain dapat dikembangkan sesuai kebutuhan pengguna, tetap dengan credit asli.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# TwoSIJA-Website-Kelas
+Terima kasih sudah menggunakan Website Kelas! 💡 Happy Coding! 🚀
+
+Credit: @jafarfaruq
